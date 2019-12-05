@@ -1,4 +1,4 @@
-If you use this code, whenever possible refer to these publications:
+If you use this code, whenever possible cite these publications:
 
 1) Makbule Gulcin Ozsoy, Ilyas Cicekli, and Ferda Nur Alpaslan. 2010. 
    Text summarization of Turkish texts using latent semantic analysis. 
